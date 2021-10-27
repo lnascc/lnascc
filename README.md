@@ -8,3 +8,10 @@
 - ⚡ Fun fact: I like dogs 🐶
 
 ## Technologies of interest
+- HTML5
+- CSS3
+- Javascript
+<img src="images/react-icon.png" width="40px" height="40px"/>
+- React Native
+- NodeJs
+
