@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Larissa 🖖
+# Hi there, I'm Larissa 🖖
 
 - 🔭 I’m currently work at Asteca Corretora de Seguros Ltda.
 - 👯 I’m currently study at @Rocketseat
@@ -8,10 +8,12 @@
 - ⚡ Fun fact: I like dogs 🐶
 
 ## Technologies of interest
-- HTML5
-- CSS3
-- Javascript
-<img src="images/react-icon.png" width="40px" height="40px"/>
-- React Native
-- NodeJs
+
+<img src="images/react-icon.png" alt="react icon" width="60px" height="60px"/><img src="images/react-native-icon.png" alt="react native icon" width="60px" height="60px"/>
+<img src="images/javascript-icon.png" alt="javascript icon" width="60px" height="60px"/><img src="images/node-icon.png" alt="node icon" width="60px" height="60px"/>
+<img src="images/html-icon.png" alt="html icon" width="60px" height="60px"/><img src="images/css-icon.png" alt="css icon" width="60px" height= "60px"/>
+
+##
+[![lnascc GitHub stats](https://github-readme-stats.vercel.app/api?username=lnascc&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)
 
