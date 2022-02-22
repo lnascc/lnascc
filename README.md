@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently work at Asteca Corretora de Seguros Ltda.
 - 👯 I’m currently studing at @Rocketseat
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning Javascript and ReactJS
 - 📫 How to reach me: larissa.nascc15@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like dogs 🐶
