@@ -1,6 +1,5 @@
 # Hi there, I'm Larissa 🖖
 
-- 🔭 I’m currently work at Asteca Corretora de Seguros Ltda.
 - 🌱 I’m currently learning Javascript and ReactJS
 - 📫 How to reach me: larissa.nascc15@gmail.com
 - 😄 Pronouns: she/her
