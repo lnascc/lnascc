@@ -1,8 +1,8 @@
-# Hi there, I'm Larissa 🖖
+# Hi there, I'm Leo 🖖
 
-- 🌱 I’m currently learning Javascript and ReactJS
+- 🌱 I’m currently learning ReactJS and TailwindCss
 - 📫 How to reach me: larissa.nascc15@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dogs 🐶
 
 ## Technologies of interest
